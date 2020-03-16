@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5331e4aa4632f137321c41f5177ae359",
+    "revision": "8c2c6994ad6a23de446d44c973c1f0c2",
     "url": "/lejoss/lejoss.github.io/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lejoss/lejoss.github.io/static/js/2.52cdc831.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6716e41bb6d99f2f6f65",
-    "url": "/lejoss/lejoss.github.io/static/js/main.facdebe4.chunk.js"
+    "revision": "24e9b712f4408be9d559",
+    "url": "/lejoss/lejoss.github.io/static/js/main.87fe958e.chunk.js"
   },
   {
     "revision": "87f05b9bdeff529d832d",
