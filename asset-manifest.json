@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/lejoss/lejoss.github.io/static/js/main.87fe958e.chunk.js",
-    "main.js.map": "/lejoss/lejoss.github.io/static/js/main.87fe958e.chunk.js.map",
-    "runtime-main.js": "/lejoss/lejoss.github.io/static/js/runtime-main.509fdf19.js",
-    "runtime-main.js.map": "/lejoss/lejoss.github.io/static/js/runtime-main.509fdf19.js.map",
-    "static/js/2.52cdc831.chunk.js": "/lejoss/lejoss.github.io/static/js/2.52cdc831.chunk.js",
-    "static/js/2.52cdc831.chunk.js.map": "/lejoss/lejoss.github.io/static/js/2.52cdc831.chunk.js.map",
-    "index.html": "/lejoss/lejoss.github.io/index.html",
-    "precache-manifest.7d60d22d10dd4af9cadffc54d89a5a4f.js": "/lejoss/lejoss.github.io/precache-manifest.7d60d22d10dd4af9cadffc54d89a5a4f.js",
-    "service-worker.js": "/lejoss/lejoss.github.io/service-worker.js",
-    "static/js/2.52cdc831.chunk.js.LICENSE.txt": "/lejoss/lejoss.github.io/static/js/2.52cdc831.chunk.js.LICENSE.txt"
+    "main.js": "/users-posts/static/js/main.87fe958e.chunk.js",
+    "main.js.map": "/users-posts/static/js/main.87fe958e.chunk.js.map",
+    "runtime-main.js": "/users-posts/static/js/runtime-main.4579e27f.js",
+    "runtime-main.js.map": "/users-posts/static/js/runtime-main.4579e27f.js.map",
+    "static/js/2.52cdc831.chunk.js": "/users-posts/static/js/2.52cdc831.chunk.js",
+    "static/js/2.52cdc831.chunk.js.map": "/users-posts/static/js/2.52cdc831.chunk.js.map",
+    "index.html": "/users-posts/index.html",
+    "precache-manifest.b7fa38844ab321b236db25ba82f53678.js": "/users-posts/precache-manifest.b7fa38844ab321b236db25ba82f53678.js",
+    "service-worker.js": "/users-posts/service-worker.js",
+    "static/js/2.52cdc831.chunk.js.LICENSE.txt": "/users-posts/static/js/2.52cdc831.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.509fdf19.js",
+    "static/js/runtime-main.4579e27f.js",
     "static/js/2.52cdc831.chunk.js",
     "static/js/main.87fe958e.chunk.js"
   ]
