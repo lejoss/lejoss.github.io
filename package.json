@@ -2,6 +2,7 @@
   "name": "posts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/lejoss/lejoss.github.io",
   "dependencies": {
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,6 +44,7 @@
     "@types/lodash": "^4.14.149",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
-    "@types/uuid": "^7.0.0"
+    "@types/uuid": "^7.0.0",
+    "gh-pages": "^2.2.0"
   }
 }
