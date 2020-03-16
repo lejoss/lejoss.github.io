@@ -2,7 +2,7 @@
   "name": "posts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/lejoss/lejoss.github.io",
+  "homepage": "https://lejoss.github.io/users-posts/",
   "dependencies": {
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
